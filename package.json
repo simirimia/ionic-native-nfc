@@ -1,0 +1,23 @@
+{
+  "name": "ionic-native-nfc",
+  "version": "0.0.1",
+  "description": "ionic wrapper for iOS branch of phonegap-nfc",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simirimia/ionic-native-nfc.git"
+  },
+  "keywords": [
+    "nfc",
+    "ionic"
+  ],
+  "author": "simirimia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simirimia/ionic-native-nfc/issues"
+  },
+  "homepage": "https://github.com/simirimia/ionic-native-nfc#readme"
+}
